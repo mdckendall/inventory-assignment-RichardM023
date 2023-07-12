@@ -101,7 +101,7 @@ public Main() {
   }
   
   public static void main(String[] args) {
-    Inventory inventory = new Inventory();
+    Main inventory = new Main();
     inventory.run();
   }
 }
